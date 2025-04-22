@@ -1,0 +1,58 @@
+Black holes are one of the most fascinating and extreme objects in the universe. They are regions of
+ spacetime where gravity is so intense that nothing—not even light—can escape from them. This
+ extreme condition results from matter being compressed into a very small space, leading to a
+ singularity: a point of infinite density where the laws of physics as we know them cease to function.
+ Black holes were first predicted by Karl Schwarzschild in 1916 as a solution to Einstein's equations of
+ General Relativity. However, they remained a theoretical curiosity for decades. In the 1960s and 70s,
+ observational astronomy and theoretical research revived interest in these cosmic enigmas. There are
+ several types of black holes categorized by mass: stellar-mass black holes (3 to 20 solar masses),
+ intermediate-mass black holes (hundreds to thousands of solar masses), and supermassive black
+ holes (millions to billions of solar masses), which are found at the centers of galaxies. The smallest
+ theoretical type, primordial black holes, may have formed during the Big Bang, but remain hypothetical.
+ Stellar-mass black holes are formed through the gravitational collapse of massive stars—those over
+ roughly 20 times the mass of the Sun. When such a star exhausts its nuclear fuel, it can no longer
+ support itself against gravitational collapse, resulting in a supernova explosion. If the remaining core is
+ massive enough, it collapses into a black hole.
+
+
+At the heart of a black hole lies the singularity, where density becomes infinite and known physics
+ break down. Surrounding the singularity is the event horizon—the boundary beyond which no
+ information or matter can escape. The event horizon is not a physical surface, but a mathematically
+ defined boundary in spacetime. The Schwarzschild radius defines the size of the event horizon for
+ non-rotating black holes and depends solely on the mass of the black hole. For example, the
+ Schwarzschild radius of a black hole with the mass of the Sun is about 3 kilometers. Rotating black
+ holes, described by the Kerr metric, exhibit even more complex structures. These include an
+ ergosphere, a region outside the event horizon where objects are dragged by the spinning spacetime.
+ Charged black holes (Reissner–Nordström black holes) are also possible in theory, adding further
+ layers of complexity. Black holes can spin and have angular momentum. This rotation can affect nearby
+ matter, accelerating particles and warping spacetime. This spin is often the result of the angular
+ momentum of the original star or the accretion of matter from a surrounding disk. An accretion disk
+ forms when matter spirals toward the black hole, heating up to millions of degrees and emitting
+ radiation, particularly in the X-ray spectrum. Observations of these emissions provide indirect evidence
+ of black holes. In some cases, powerful jets of particles are ejected from the poles of the black hole,
+ traveling at near light-speed. Though black holes are commonly thought of as destructive, they are also
+ essential to galactic evolution. Supermassive black holes influence the formation and behavior of stars
+ in galaxies, regulate growth via feedback mechanisms, and are fundamental to the dynamics of galactic
+ cores.
+
+Because black holes do not emit light, astronomers rely on indirect methods to detect them. X-ray
+ binaries, where a black hole draws material from a companion star, emit high-energy X-rays. These
+ emissions allow astronomers to estimate the mass and location of the black hole. Gravitational lensing,
+ where light from distant stars is bent around a black hole, also offers a method of detection. One of the
+ most groundbreaking confirmations of black holes came in 2015, when the Laser Interferometer
+ Gravitational-Wave Observatory (LIGO) detected gravitational waves from the merger of two
+ stellar-mass black holes. This historic discovery confirmed a key prediction of Einstein's General
+ Relativity and opened a new era of astronomy: gravitational wave astronomy. Another revolutionary
+ idea is Hawking radiation, proposed by physicist Stephen Hawking in 1974. According to quantum
+ theory, particle-antiparticle pairs form spontaneously near the event horizon. One particle falls in, while
+ the other escapes, appearing as radiation. Over immense periods of time, this could cause black holes
+ to lose mass and eventually evaporate. Black holes are not merely cosmic vacuum cleaners—they are
+ key to testing the fundamental laws of physics. They challenge our understanding of gravity, quantum
+ mechanics, and information theory. The so-called "information paradox" arises from the question of
+ whether information that falls into a black hole is destroyed, which would violate the laws of quantum
+ mechanics. This remains one of the most profound unsolved problems in theoretical physics. In 2019,
+ the Event Horizon Telescope collaboration captured the first-ever image of a black hole's shadow in the
+ galaxy M87. This achievement was not only a technical triumph but also a visual confirmation of
+ theoretical models developed over a century. In conclusion, black holes are both mysterious and
+ fundamental. They provide unique insights into the workings of the universe, pushing the boundaries of
+ modern science and continuing to captivate our imagination.
