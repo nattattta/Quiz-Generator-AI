@@ -90,14 +90,7 @@ Follow the interactive prompts:
    - User inputs their answer choice
    - Immediate feedback is provided
    - Final score is calculated and displayed
-
-## License
-
-[MIT License](LICENSE)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+   - The generated quiz with correct answers are saved to output
 
 ## Troubleshooting
 
