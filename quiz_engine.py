@@ -26,6 +26,30 @@ Content:
 
     return response.choices[0].message.content.strip()
 
+def save_quiz_to_file(questions_text, filename="quiz"):
+    # Create output directory if it doesn't exist
+    output_dir = os.path.join(os.getcwd(), "output")
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Generate a unique filename if none provided
+    if filename == "quiz":
+        from datetime import datetime
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"quiz_{timestamp}"
+    
+    # Ensure the filename has .txt extension
+    if not filename.endswith(".txt"):
+        filename += ".txt"
+    
+    # Create the full file path
+    file_path = os.path.join(output_dir, filename)
+    
+    # Save the content to the file
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(questions_text)
+    
+    return file_path
+
 def run_quiz(questions_text):
     questions = questions_text.split("\n\n")
     score = 0

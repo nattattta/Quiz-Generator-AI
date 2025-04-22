@@ -1,6 +1,6 @@
 import os
 from utils import load_text_file, load_pdf_file, transcribe_audio, extract_audio_from_video
-from quiz_engine import generate_questions, run_quiz
+from quiz_engine import generate_questions, run_quiz, save_quiz_to_file
 
 def main():
     print("Select file type:")
@@ -32,6 +32,16 @@ def main():
 
     print("\nGenerating quiz questions...\n")
     questions_text = generate_questions(content)
+    
+    # Ask if user wants to provide a custom filename
+    custom_filename = input("\nDo you want to provide a custom filename for the quiz? (default: auto-generated): ")
+    if custom_filename.strip():
+        saved_path = save_quiz_to_file(questions_text, filename=custom_filename)
+    else:
+        saved_path = save_quiz_to_file(questions_text)
+    
+    print(f"Quiz saved to: {saved_path}")
+    
     run_quiz(questions_text)
 
 if __name__ == "__main__":
